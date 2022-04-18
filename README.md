@@ -1,6 +1,6 @@
 ### Hello 👋
 
-✨ My name is Mahdi. I am a machine learning scientist working on distributed and privacy preserving machine learning.
+✨ My name is Mahdi. I am a machine learning scientist working on distributed and privacy preserving machine learning in Canada.
 
 I love sharing my knowledge with others since that is how I learned 😄
 
