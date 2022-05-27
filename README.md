@@ -2,6 +2,8 @@
 
 ✨ My name is Mahdi. I am a machine learning scientist working on distributed and privacy preserving machine learning in Canada.
 
+Checkout my main page to see my projects: https://mahdibeit.github.io/
+
 I love sharing my knowledge with others since that is how I learned 😄
 
 👯 I’m looking to collaborate on Federated Learning and AI projects
