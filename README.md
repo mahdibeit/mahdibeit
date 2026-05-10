@@ -1,6 +1,6 @@
 # Hi, I'm Mahdi Beitollahi👋
 
-📍 Montreal, Canada | 🤖 ML Research Scientist | 🏗️ Builder of AI products
+📍 Montreal, Canada | 🤖 ML Engineer | 🏗️ Builder of AI products
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -11,7 +11,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-12 publications, 2 patents — specializing in distributed training, federated learning, LLMs, and agentic systems. Currently at Noah's Ark Lab. Passionate about open source and turning research into real products.
+I specialize in distributed training, representation learning, LLMs, and building AI products.
 
 🌐 **Portfolio:** [mahdibeit.github.io](https://mahdibeit.github.io/) &nbsp;|&nbsp; 🎓 **Scholar:** [Google Scholar](https://scholar.google.ca/citations?user=HdvxM78AAAAJ&hl=en)
 
